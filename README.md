@@ -34,5 +34,13 @@ Título interno "MINI OSU" tipo encabezado
 
 
 
+
+
+
+
+
+
+
+
 <img width="749" height="943" alt="image" src="https://github.com/user-attachments/assets/7d1c0ea3-37c3-48a7-a4c8-392652cc4ee1" />
 
